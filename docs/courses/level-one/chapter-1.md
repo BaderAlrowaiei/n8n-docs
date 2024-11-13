@@ -95,7 +95,7 @@ Based on their function, n8n classifies nodes into four types:
 - **Cluster Nodes** are node groups that work together to provide functionality in a workflow. Refer to [Cluster nodes](/integrations/builtin/cluster-nodes/) for more information.
 
 /// note | Learn more
-Refer to [Node types](/builtin/node-types/) for a more detailed explanation of all node types.
+Refer to [Node types](https://docs.n8n.io/integrations/builtin/node-types/) for a more detailed explanation of all node types.
 ///
 
 ### Finding nodes
